@@ -1,0 +1,19 @@
+{
+  "name": "tatlongtaoncatalog",
+  "version": "1.0.0",
+  "description": "exhibit catalog",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/beamariano/tatlongtaoncatalog.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/beamariano/tatlongtaoncatalog/issues"
+  },
+  "homepage": "https://github.com/beamariano/tatlongtaoncatalog#readme"
+}
