@@ -1,6 +1,6 @@
 # Tatlong Taong Walang Diyos Catalog
 
-Created in HTML5, CSS3, and Bootstrap 4.6
+Technologies used: HTML5, CSS3, and Bootstrap 4.6
 
 ## About
 
