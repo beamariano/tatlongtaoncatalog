@@ -6,6 +6,10 @@ Technologies used: HTML5, CSS3, and Bootstrap 4.6
 
 The online catalog of the exhibit, "Tatlong Taong Walang Diyos" (trans. "Three Years Without God") in 2019, featuring images that chronicled the first three years of President Duterte's chilling war on drugs. The website was created using HTML, CSS and Bootstrap.
 
+## View Live App
+
+https://tatlongtaongwalangdiyos.herokuapp.com/
+
 ## Notice
 
 This website is a mockup of the exhibit website and is in progress. It is not meant to represent the complete exhibit data. There will be text edits and more photographs forthcoming.
